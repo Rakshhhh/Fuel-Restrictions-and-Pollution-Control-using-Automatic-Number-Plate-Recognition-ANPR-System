@@ -1,0 +1,2 @@
+# Fuel-Restrictions-and-Pollution-Control-using-Automatic-Number-Plate-Recognition-ANPR-System
+The Petrol Station Automatic Number Plate Recognition (ANPR) System is a smart solution that enforces fuel restrictions based on vehicle age. It captures license plates using cameras, extracts registration numbers through OCR, and verifies vehicle details by cross-checking a database to automatically allow or deny fuel dispensing.
